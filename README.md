@@ -3,7 +3,7 @@
 
 Run the Composer require command from the Terminal:
 
-    composer require megenzo/laravel-shopping-cart
+    composer require mugenzo/laravel-shopping-cart
 
 Now you're ready to start using the shoppingcart in your application.
 
