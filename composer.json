@@ -1,0 +1,12 @@
+{
+    "name": "mugenzo/laravel-shopping-cart",
+    "description": "Shopping cart for laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mugenzo",
+            "email": "mugenzo@outlook.com"
+        }
+    ],
+    "require": {}
+}
