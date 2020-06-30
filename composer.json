@@ -29,7 +29,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mugenzo\\LaravelShoppingCart\\ShoppingcartServiceProvider"
+                "Mugenzo\\LaravelShoppingCart\\ShoppingCartServiceProvider"
             ],
             "aliases": {
                 "Cart": "Mugenzo\\LaravelShoppingCart\\Facades\\Cart"

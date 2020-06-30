@@ -158,6 +158,6 @@ $cart->setDiscount('flat', 100);
 ### Configuration
 If you want to change Cart options, you'll have to publish the `config` file.
 
-    php artisan vendor:publish --provider="Mugenzo\LaravelShoppingCart\ShoppingcartServiceProvider" --tag="config"
+    php artisan vendor:publish --provider="Mugenzo\LaravelShoppingCart\ShoppingCartServiceProvider" --tag="config"
 
 This will give you a `shopping_cart_config.php` config file in which you can make the changes.
